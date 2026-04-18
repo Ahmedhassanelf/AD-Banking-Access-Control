@@ -1,5 +1,5 @@
 # 🏦 AD-Banking-Access-Control
-#   Simulating enterprise IAM & RBAC using Active Directory, Kerberos auth, and LDAP — Banking environment lab
+#  enterprise IAM & RBAC using Active Directory, Kerberos auth, and LDAP — Banking environment lab
 
 <div align="center">
 
